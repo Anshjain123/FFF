@@ -1,0 +1,16 @@
+.footer{
+    margin-top: 190px;
+    height: 300px;
+    width : 1440px;
+    background-color: black;
+}
+.row11{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+    padding-top: 30px;
+}
